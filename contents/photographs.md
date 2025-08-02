@@ -17,18 +17,18 @@
   </div> 
 
   <div style="text-align: center;">
-    <img src="static/assets/img/BW1.jpg" style="width: auto; height: 1000px;" alt="NIKON Z5II NIKKOR 50f/1.2">
-    <div style="font-size: 13px; margin-top: 4px;">NIKON Z6II NIKKOR 24-70f/4</div>
+    <img src="static/assets/img/BW1.jpg" style="width: auto; height: 500px;" alt="NIKON Z5II NIKKOR 50f/1.2">
+    <div style="font-size: 13px; margin-top: 4px;">NIKON Z5II NIKKOR 50f/1.2</div>
   </div>     
 
   <div style="text-align: center;">
-    <img src="static/assets/img/BW2.jpg" style="width: auto; height: 1000px;" alt="NIKON Z5II NIKKOR 50f/1.2">
-    <div style="font-size: 13px; margin-top: 4px;">NIKON Z6II NIKKOR 24-70f/4</div>
+    <img src="static/assets/img/BW2.jpg" style="width: auto; height: 500px;" alt="NIKON Z5II NIKKOR 50f/1.2">
+    <div style="font-size: 13px; margin-top: 4px;">NIKON Z5II NIKKOR 50f/1.2</div>
   </div> 
 
   <div style="text-align: center;">
-    <img src="static/assets/img/BW3.jpg" style="width: auto; height: 1000px;" alt="NIKON Z5II NIKKOR 50f/1.2">
-    <div style="font-size: 13px; margin-top: 4px;">NIKON Z6II NIKKOR 24-70f/4</div>
+    <img src="static/assets/img/BW3.jpg" style="width: auto; height: 500px;" alt="NIKON Z5II NIKKOR 50f/1.2">
+    <div style="font-size: 13px; margin-top: 4px;">NIKON Z5II NIKKOR 50f/1.2</div>
   </div>     
 
 </div>

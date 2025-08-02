@@ -34,17 +34,17 @@
   </div>   
 
   <div style="text-align: center;">
-    <img src="static/assets/img/Hutong1.JPG" style="width: auto; height: 500px;" alt="NIKON Z6II NIKKOR 24-70f/4">
+    <img src="static/assets/img/Hutong1.jpg" style="width: auto; height: 500px;" alt="NIKON Z6II NIKKOR 24-70f/4">
     <div style="font-size: 13px; margin-top: 4px;">NIKON Z6II NIKKOR 24-70f/4</div>
   </div>     
 
   <div style="text-align: center;">
-    <img src="static/assets/img/Hutong2.JPG" style="width: auto; height: 500px;" alt="NIKON Z6II NIKKOR 24-70f/4">
+    <img src="static/assets/img/Hutong2.jpg" style="width: auto; height: 500px;" alt="NIKON Z6II NIKKOR 24-70f/4">
     <div style="font-size: 13px; margin-top: 4px;">NIKON Z6II NIKKOR 24-70f/4</div>
   </div> 
 
   <div style="text-align: center;">
-    <img src="static/assets/img/Hutong3.JPG" style="width: auto; height: 500px;" alt="NIKON Z6II NIKKOR 24-70f/4">
+    <img src="static/assets/img/Hutong3.jpg" style="width: auto; height: 500px;" alt="NIKON Z6II NIKKOR 24-70f/4">
     <div style="font-size: 13px; margin-top: 4px;">NNIKON Z6II NIKKOR 24-70f/4</div>
   </div>         
 

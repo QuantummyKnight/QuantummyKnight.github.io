@@ -17,10 +17,10 @@
 .top-section {
     position: relative;
     padding: 10rem 0;
-    background-position:top center;
+    background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
-    height: 35rem;
+    height: 30rem;
 }
 
 .top-section h2 {
